@@ -87,10 +87,10 @@ body {
     height: calc(100vh - 74px);
     padding-top: 100px;
 }
-@media (max-width: 767px){
+@media (max-width: 991px){
     .hero {
         padding-top: 16px;
-        height: 115vh;
+        height: 100vh;
     }
 }
 .hero-title {
@@ -389,11 +389,11 @@ body {
 .ortho-hero {
     background: linear-gradient(135deg, #6a2c91, #4a1f6a);
 }
-@media (max-width: 767px){
+@media (max-width: 991px){
     .department-hero {
         padding-top: 16px;
         padding-bottom: 10px;
-        height: 120vh;
+        height: 110vh;
         text-align: center;
     }
 }
