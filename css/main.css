@@ -117,7 +117,7 @@ body {
 }
 @media (max-width: 991px) {
     .hero-card {
-        height: 200px;
+        height: 240px;
     }
 }
 .hero-card svg {
